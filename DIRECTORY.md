@@ -706,6 +706,7 @@
   * [Elf](hashes/elf.py)
   * [Enigma Machine](hashes/enigma_machine.py)
   * [Fletcher16](hashes/fletcher16.py)
+  * [Fnv1A](hashes/fnv1a.py)
   * [Hamming Code](hashes/hamming_code.py)
   * [Jenkins One At A Time](hashes/jenkins_one_at_a_time.py)
   * [Luhn](hashes/luhn.py)
@@ -1479,7 +1480,6 @@
     * [Sol1](project_euler/problem_800/sol1.py)
 
 ## [Quantum](quantum)
-  * [Q Fourier Transform](quantum/q_fourier_transform.py)
   * [Shor Algorithm](quantum/shor_algorithm.py)
 
 ## [Scheduling](scheduling)
